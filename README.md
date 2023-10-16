@@ -1,4 +1,4 @@
-# [用 Windows 電腦製作 macOS 的復原媒體（Net Installer）](https://github.com/proton-penguin/macOS-Downloader/tree/Window)
+# [用 Windows 電腦製作 macOS 的復原媒體（Net Installer）](https://github.com/proton-penguin/macOS-Downloader/tree/Windows)
 ![圖片](https://github.com/proton-penguin/macOS-Downloader/assets/142492829/ff269c18-20c6-47f7-8892-e0a7eeeea356)
 
 ---
